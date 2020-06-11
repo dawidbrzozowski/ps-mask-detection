@@ -1,7 +1,3 @@
-imutils
-numpy
-torch
-torchvision
-PIL
-cv2
-opencv-python
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ccb22323aa7ecaad80f5c03ab89cf864f0d56d28589ac1a8ba13ef101df01e1
+size 45
